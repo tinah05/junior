@@ -48,8 +48,7 @@ http://localhost: 8000/subject.html");
 
 				</ul>
 			</div>
-			<ul class="nav navbar-nav pull-right mainNav"> <a href="app.php">logout</a>
-
+			<ul class="nav navbar-nav pull-right mainNav"> <a href="index.html">logout</a>
 	
 			<!--/.nav-collapse -->
 		</div>
